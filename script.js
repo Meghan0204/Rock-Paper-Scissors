@@ -60,3 +60,4 @@ function getRandomComputerResult() {
     optionsContainer.style.display = "block";
     winnerMsgElement.innerText = "";
     roundResultsMsg.innerText = "";
+  };
