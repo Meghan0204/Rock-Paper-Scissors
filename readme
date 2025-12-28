@@ -1,3 +1,60 @@
 # Rock Paper Scissors Game
 
-This Rock Paper Scissors game was developed as part of my FreeCodeCamp.org JavaScript and Data Structures certification project. While the HTML and CSS were provided, I wrote the JavaScript code, highlighting my skills in programming logic and algorithm development.
+A classic **Rock Paper Scissors** game developed as part of my **FreeCodeCamp.org JavaScript and Data Structures certification**. While the HTML and CSS structure were provided, I wrote the JavaScript logic that powers the game, demonstrating my skills in programming logic and algorithm design.
+
+---
+
+## About the Project
+
+This project is a simple interactive Rock Paper Scissors game built with:
+
+- **HTML** – page structure  
+- **CSS** – styles and layout  
+- **JavaScript** – game logic and interaction
+
+The game allows a user to select rock, paper, or scissors and plays against a computer opponent that makes random moves.
+
+---
+
+## Features
+
+- User selects rock, paper, or scissors
+- Computer move is chosen at random
+- Game determines and displays the winner
+- Resettable game state
+- Basic score tracking
+
+---
+
+## How It Works
+
+The core game logic in `script.js`:
+
+1. **Event listeners** capture user choice.
+2. The computer choice is generated randomly.
+3. Game rules compare user choice to computer choice.
+4. The result (win/lose/tie) is displayed to the user.
+
+---
+
+## Technologies Used
+
+- **JavaScript** – game logic  
+- **HTML5** – structure  
+- **CSS3** – styling & responsive basic layout  
+
+---
+
+## Live Demo
+
+View the game live on GitHub Pages:  
+🔗 https://meghan0204.github.io/Rock-Paper-Scissors/
+
+---
+
+## Contact
+
+**Meghan Ann OConnell**  
+📧 meghan.oconnell0011@gmail.com  
+🔗 https://www.linkedin.com/in/meghan-oconnell0011/
+
